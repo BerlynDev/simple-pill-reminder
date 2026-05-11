@@ -1,0 +1,17 @@
+{
+  "pills": [
+    {
+      "name": "Aspirin",
+      "time": "11:31",
+      "dosage": "100mg",
+      "notes": "Take with food"
+    },
+    {
+      "name": "Vitamin D",
+      "time": "21:00",
+      "dosage": "1000 IU",
+      "notes": ""
+    }
+  ],
+  "reminderIntervalMinutes": 10
+}
